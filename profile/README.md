@@ -15,7 +15,7 @@ _by Llewellyn Falco_
   , [C++](https://github.com/LearnWithLlew/TestingLegacyCodeCourse.cpp) 
   ]
 * DuplicationColoringBook[
-  [Slides](DuplicationColoringBook)
+  [Slides](https://github.com/LearnWithLlew/DuplicationColoringBook)
   , [Python](https://github.com/LearnWithLlew/DuplicationKata.Python)
   , [.Net](https://github.com/LearnWithLlew/DuplicationKata.Net)
   , [Php](https://github.com/LearnWithLlew/DuplicationKata.php)
@@ -23,7 +23,11 @@ _by Llewellyn Falco_
   , [Java](https://github.com/LearnWithLlew/DuplicationKata.java)
   , [C++](https://github.com/LearnWithLlew/DuplicationKata.cpp.vs2017)
   ] 
-#### ManyOfOne
+ * ManyOfOne[
+ [Slides](ManyOfOne.slides)
+  , [.Net](https://github.com/LearnWithLlew/ManyOfOne.Net)
+  , [Java](https://github.com/LearnWithLlew/ManyOfOne.Java)
+ ]
 ### Koans
 ## ExtremeFakeItTillYouMakeIt
 ## Intro To Java
