@@ -67,16 +67,25 @@ _by Llewellyn Falco_
 
 
 # Starter Projects
+* [Elixir](https://github.com/LearnWithLlew/elixir.starterproject) 
+* [Erlang](https://github.com/LearnWithLlew/erlang.starterproject)
+* [Haskell](https://github.com/LearnWithLlew/haskell.starterproject)
+* [Julia](https://github.com/LearnWithLlew/julia.starterproject)
+* [Lua](https://github.com/LearnWithLlew/lua.starterproject)
+* [OCaml](https://github.com/LearnWithLlew/ocaml.starterproject)
+* [Prolog](https://github.com/LearnWithLlew/prolog.starterproject)
+* [ReasonMl](https://github.com/LearnWithLlew/reasonml.starterproject)
+
 
 # Utilities
 
-MobTime.keyboardswitching 
-DeepDiveTyping
-EclipseTips
+* [MobTime.keyboardswitching](https://github.com/LearnWithLlew/MobTime.keyboardswitching) 
+* [DeepDiveTyping](https://github.com/LearnWithLlew/DeepDiveTyping)
+* [EclipseTips](https://github.com/LearnWithLlew/EclipseTips)
 
 # Documentation
-MentoringNewSpeakers 
-MobProgrammingFacilitators
+* MentoringNewSpeakers 
+* MobProgrammingFacilitators
 
 # Other
-SparrowDecks 
+* [SparrowDecks](https://github.com/LearnWithLlew/SparrowDecks#sparrowspike) 
