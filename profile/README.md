@@ -46,8 +46,8 @@ _by Llewellyn Falco_
  ]
  * RefactoringToCleanerCode[
     [Slides](https://github.com/LearnWithLlew/RefactoringToCleanerCode.Slides)
-  , [Java](RefactoringToCleanerCode.java)
-  , [.Net](RefactoringToCleanerCode.net)
+  , [Java](https://github.com/LearnWithLlew/RefactoringToCleanerCode.java)
+  , [.Net](https://github.com/LearnWithLlew/RefactoringToCleanerCode.net)
  ]
  * KeyboardShortcutKata[
   [Kotlin](https://github.com/LearnWithLlew/KeyboardShortcutKatas.Kotlin)
