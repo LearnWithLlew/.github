@@ -63,6 +63,7 @@ _by Llewellyn Falco_
 ]
 * EarlyReturnKata[
   [C++](https://github.com/LearnWithLlew/EarlyReturnKata.cpp)
+  , [Java](https://github.com/LearnWithLlew/EarlyReturnKata.java)
 ]
 * Peel and Slice [
    [Slides](https://github.com/jason-kerney/PeelAndSlice),
