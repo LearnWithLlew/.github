@@ -82,6 +82,7 @@ _by Llewellyn Falco_
 * [OCaml](https://github.com/LearnWithLlew/ocaml.starterproject)
 * [Prolog](https://github.com/LearnWithLlew/prolog.starterproject)
 * [ReasonMl](https://github.com/LearnWithLlew/reasonml.starterproject)
+* [jq](https://github.com/LearnWithLlew/jq.starterproject)
 
 
 # Utilities
