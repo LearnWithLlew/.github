@@ -94,6 +94,7 @@ _by Llewellyn Falco_
 # Documentation
 * MentoringNewSpeakers 
 * MobProgrammingFacilitators
+* [Coderetreat facilitation](https://github.com/LearnWithLlew/Coderetreat.facilitation)
 
 # Other
 * [SparrowDecks](https://github.com/LearnWithLlew/SparrowDecks#sparrowspike) 
