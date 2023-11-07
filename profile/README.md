@@ -77,12 +77,13 @@ _by Llewellyn Falco_
 * [Elixir](https://github.com/LearnWithLlew/elixir.starterproject) 
 * [Erlang](https://github.com/LearnWithLlew/erlang.starterproject)
 * [Haskell](https://github.com/LearnWithLlew/haskell.starterproject)
+* [jq](https://github.com/LearnWithLlew/jq.starterproject)
 * [Julia](https://github.com/LearnWithLlew/julia.starterproject)
 * [Lua](https://github.com/LearnWithLlew/lua.starterproject)
 * [OCaml](https://github.com/LearnWithLlew/ocaml.starterproject)
 * [Prolog](https://github.com/LearnWithLlew/prolog.starterproject)
 * [ReasonMl](https://github.com/LearnWithLlew/reasonml.starterproject)
-* [jq](https://github.com/LearnWithLlew/jq.starterproject)
+* [Rust](https://github.com/LearnWithLlew/rust.starterproject)
 
 
 # Utilities
