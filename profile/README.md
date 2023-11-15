@@ -97,6 +97,7 @@ ApprovalTests also has a lot of [starter projects here](https://approvaltests.co
 * MentoringNewSpeakers 
 * MobProgrammingFacilitators
 * [Coderetreat facilitation](https://github.com/LearnWithLlew/Coderetreat.facilitation)
+* [Open Learning Hour](https://github.com/LearnWithLlew/OpenLearningHour)
 
 # Other
 * [SparrowDecks](https://github.com/LearnWithLlew/SparrowDecks#sparrowspike) 
