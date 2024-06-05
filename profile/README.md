@@ -36,7 +36,8 @@ _by Llewellyn Falco_
   , [Reactive](https://github.com/LearnWithLlew/ReactiveKoans)
  ]
  * ExtremeFakeItTillYouMakeIt[
-  [Java](https://github.com/LearnWithLlew/ExtremeFakeItTillYouMakeIt.Java)
+   [Slides](https://github.com/isidore/ExtremeFakeItTillYouMakeIt-Kata)
+   , [Java](https://github.com/LearnWithLlew/ExtremeFakeItTillYouMakeIt.Java)
  ]
  * Intro To Java[
   [Java](https://github.com/LearnWithLlew/IntroToJava)
