@@ -85,6 +85,7 @@ _by Llewellyn Falco_
 * [Prolog](https://github.com/LearnWithLlew/prolog.starterproject)
 * [ReasonMl](https://github.com/LearnWithLlew/reasonml.starterproject)
 * [Rust](https://github.com/LearnWithLlew/rust.starterproject)
+  
 ## ApprovalTests.starterprojects
 ApprovalTests also has a lot of [starter projects here](https://approvaltests.com/builds/#starter-projects)
 
@@ -95,10 +96,11 @@ ApprovalTests also has a lot of [starter projects here](https://approvaltests.co
 * [EclipseTips](https://github.com/LearnWithLlew/EclipseTips)
 
 # Documentation
-* MentoringNewSpeakers 
-* MobProgrammingFacilitators
+* [MentoringNewSpeakers](https://github.com/LearnWithLlew/MentoringNewSpeakers) 
+* [MobProgrammingFacilitators](https://github.com/LearnWithLlew/MobProgrammingFacilitatorsGuide)
 * [Coderetreat facilitation](https://github.com/LearnWithLlew/Coderetreat.facilitation)
 * [Open Learning Hour](https://github.com/LearnWithLlew/OpenLearningHour)
+* [Talks.Template](https://github.com/LearnWithLlew/Template.Talks) a project to clone and share resources for your own talks
 
 # Other
-* [SparrowDecks](https://github.com/LearnWithLlew/SparrowDecks#sparrowspike) 
+* [SparrowDecks](https://github.com/LearnWithLlew/SparrowDecks#sparrowspike)
